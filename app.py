@@ -125,7 +125,7 @@ def main():
     st.set_page_config(page_title="Heart Disease Prediction - SVM", page_icon="🫀")
     st.title("Heart Disease Risk Prediction 🫀")
     st.write(
-        "Aplikasi ini menggunakan model **SVM**"
+        "Aplikasi ini menggunakan model **SVM** "
         "untuk memprediksi risiko penyakit jantung (HeartDisease)."
     )
 
